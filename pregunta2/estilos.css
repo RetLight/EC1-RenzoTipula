@@ -53,13 +53,11 @@ h6{
     width: 25%;
 }
 
-.imagenes {
-    display: flex;
-    
-    background-size: 100%;
+button{
+    background-color: white;
 }
 
-article{
-    padding: 10px;
-    margin: 10px;
+.imagenes {
+    background-size: 100%;
+    display: flex;
 }
